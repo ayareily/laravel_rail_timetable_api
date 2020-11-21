@@ -16,5 +16,5 @@ API実験中
 - Laradock
 
 ```
-$ docker-composer up -d workspace nginx mysql phpmyadmin redis
+$ docker-compose up -d workspace nginx mysql phpmyadmin redis
 ```
